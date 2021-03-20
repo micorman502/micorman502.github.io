@@ -1,0 +1,16 @@
+{
+"companyName": "Redlabs",
+"productName": "Adrift",
+"productVersion": "1.0.2270.2639",
+"dataUrl": "Adrift.data.unityweb",
+"wasmCodeUrl": "Adrift.wasm.code.unityweb",
+"wasmFrameworkUrl": "Adrift.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Adrift.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
