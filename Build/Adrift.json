@@ -1,7 +1,7 @@
 {
 "companyName": "Redlabs",
 "productName": "Adrift",
-"productVersion": "1.8",
+"productVersion": "1.8.1",
 "dataUrl": "Adrift.data.unityweb",
 "wasmCodeUrl": "Adrift.wasm.code.unityweb",
 "wasmFrameworkUrl": "Adrift.wasm.framework.unityweb",
