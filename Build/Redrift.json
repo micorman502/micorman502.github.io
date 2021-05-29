@@ -1,0 +1,16 @@
+{
+"companyName": "Redlabs",
+"productName": "Redrift",
+"productVersion": "1.8.2",
+"dataUrl": "Redrift.data.unityweb",
+"wasmCodeUrl": "Redrift.wasm.code.unityweb",
+"wasmFrameworkUrl": "Redrift.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Redrift.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
